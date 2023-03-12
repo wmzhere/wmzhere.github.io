@@ -1,0 +1,31 @@
+html {
+    font-family: var(--serif-font);
+}
+
+:root {
+    --serif-font: "Anno", serif;
+}
+
+@font-face {
+    font-family: 'Anno';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(woff2/Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Anno';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url(woff2/Italic.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Anno';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(woff2/Bold.woff2) format('woff2');
+}
