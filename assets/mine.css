@@ -3,7 +3,7 @@ html {
 }
 
 :root {
-    --serif-font: "Anno", serif;
+    --serif-font: 'Anno', 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif, serif;
 }
 
 @font-face {
